@@ -1,0 +1,30 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "we are using express, node.js, local API, server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UofTL/zookeepr.git"
+  },
+  "keywords": [
+    "Node.js",
+    "server",
+    "express",
+    "locl",
+    "API"
+  ],
+  "author": "Eleonore Caclard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UofTL/zookeepr/issues"
+  },
+  "homepage": "https://github.com/UofTL/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
